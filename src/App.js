@@ -3,7 +3,7 @@ import './App.css';
 import NavBar from './components/Navigation';
 import HomePage from './pages/home/Home';
 import Posts from './pages/posts/App';
-import Contact from './pages/contacts/Contact';
+import ContactsList from './pages/contacts/Contacts';
 import Photos from './pages/photos/Photos'
 
 function App() {
@@ -21,7 +21,7 @@ function App() {
           <Posts/>
           </Route>
           <Route path='/contacts' >
-          <Contact/>
+          <ContactsList/>
           </Route>
           <Route path='/photos' >
           <Photos/>

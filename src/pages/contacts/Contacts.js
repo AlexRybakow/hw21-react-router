@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Contact from './Contact';
 import './styles.css';
 
-class Contacts extends Component {
+class ContactsList extends Component {
     state = {
         contacts: [{
             firstName: "Барней",
@@ -64,4 +64,4 @@ class Contacts extends Component {
 
 }
 
-export default Contacts;
+export default ContactsList;

@@ -4,7 +4,7 @@ const Homepage = () => {
     return(
         <div className="flex">
             <img src={StarTrek}></img>
-            <h1>Check the page and live long and prosper</h1>
+            <h1>Choose the page and live long and prosper</h1>
         </div>
     )
 }
