@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hw-21-react-router/static/css/main.0d207d22.chunk.css",
-    "main.js": "/hw-21-react-router/static/js/main.45ab32eb.chunk.js",
-    "main.js.map": "/hw-21-react-router/static/js/main.45ab32eb.chunk.js.map",
-    "runtime-main.js": "/hw-21-react-router/static/js/runtime-main.dbf3d797.js",
-    "runtime-main.js.map": "/hw-21-react-router/static/js/runtime-main.dbf3d797.js.map",
-    "static/js/2.be8f071d.chunk.js": "/hw-21-react-router/static/js/2.be8f071d.chunk.js",
-    "static/js/2.be8f071d.chunk.js.map": "/hw-21-react-router/static/js/2.be8f071d.chunk.js.map",
-    "static/js/3.42604b35.chunk.js": "/hw-21-react-router/static/js/3.42604b35.chunk.js",
-    "static/js/3.42604b35.chunk.js.map": "/hw-21-react-router/static/js/3.42604b35.chunk.js.map",
-    "index.html": "/hw-21-react-router/index.html",
-    "static/css/main.0d207d22.chunk.css.map": "/hw-21-react-router/static/css/main.0d207d22.chunk.css.map",
-    "static/js/2.be8f071d.chunk.js.LICENSE.txt": "/hw-21-react-router/static/js/2.be8f071d.chunk.js.LICENSE.txt",
-    "static/media/spok.d1405f81.jpeg": "/hw-21-react-router/static/media/spok.d1405f81.jpeg"
+    "main.css": "/hw21-react-router/static/css/main.0d207d22.chunk.css",
+    "main.js": "/hw21-react-router/static/js/main.45ab32eb.chunk.js",
+    "main.js.map": "/hw21-react-router/static/js/main.45ab32eb.chunk.js.map",
+    "runtime-main.js": "/hw21-react-router/static/js/runtime-main.f01bc507.js",
+    "runtime-main.js.map": "/hw21-react-router/static/js/runtime-main.f01bc507.js.map",
+    "static/js/2.be8f071d.chunk.js": "/hw21-react-router/static/js/2.be8f071d.chunk.js",
+    "static/js/2.be8f071d.chunk.js.map": "/hw21-react-router/static/js/2.be8f071d.chunk.js.map",
+    "static/js/3.42604b35.chunk.js": "/hw21-react-router/static/js/3.42604b35.chunk.js",
+    "static/js/3.42604b35.chunk.js.map": "/hw21-react-router/static/js/3.42604b35.chunk.js.map",
+    "index.html": "/hw21-react-router/index.html",
+    "static/css/main.0d207d22.chunk.css.map": "/hw21-react-router/static/css/main.0d207d22.chunk.css.map",
+    "static/js/2.be8f071d.chunk.js.LICENSE.txt": "/hw21-react-router/static/js/2.be8f071d.chunk.js.LICENSE.txt",
+    "static/media/spok.d1405f81.jpeg": "/hw21-react-router/static/media/spok.d1405f81.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbf3d797.js",
+    "static/js/runtime-main.f01bc507.js",
     "static/js/2.be8f071d.chunk.js",
     "static/css/main.0d207d22.chunk.css",
     "static/js/main.45ab32eb.chunk.js"
