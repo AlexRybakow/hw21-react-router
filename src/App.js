@@ -12,18 +12,18 @@ function App() {
       <header className="header flex">
         <NavBar/>
       </header>
-      <main>
+      <main className='main-block'>
         <Switch>
-          <Route path='/' exact>
+          <Route path='/hw21-react-router/' exact>
           <HomePage/>
           </Route>
-          <Route path='/posts'>
+          <Route path='/hw21-react-router/posts'>
           <Posts/>
           </Route>
-          <Route path='/contacts' >
+          <Route path='/hw21-react-router/contacts' >
           <ContactsList/>
           </Route>
-          <Route path='/photos' >
+          <Route path='/hw21-react-router/photos' >
           <Photos/>
           </Route>
         </Switch>

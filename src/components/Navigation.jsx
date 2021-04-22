@@ -2,26 +2,26 @@ import React from 'react';
 import { NavLink } from 'react-router-dom'
 
 const links = [{
-    to:'/',
+    to:'/hw21-react-router/',
     label:'Home Page'
 },
 {
-    to:'/posts',
+    to:'/hw21-react-router/posts',
     label:'Posts'
 },
 {
-    to:'/contacts',
+    to:'/hw21-react-router/contacts',
     label:'Contact book'
 },
 {
-    to:'/photos',
+    to:'/hw21-react-router/photos',
     label:'Photos'
 },
 ]
 
 const NavBar = () => (
     <nav className="navigation">
-        <ul className="navigation-menu">
+        <ul className="flex">
             {links.map(link => (
                <li className="navigation-item" key={link.to}>
                    <NavLink exact to={link.to}>{link.label}</NavLink>

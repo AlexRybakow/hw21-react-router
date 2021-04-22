@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Alexrybakow.github.io/hw-21-react-router",
+  "homepage": "https://Alexrybakow.github.io/hw21-react-router",
   "name": "hw-21-react-router",
   "version": "0.1.0",
   "private": true,
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
