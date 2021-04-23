@@ -1,4 +1,10 @@
-
+body {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
 .flex {
     display: flex;
     flex-wrap: wrap;

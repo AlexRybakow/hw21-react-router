@@ -3,7 +3,7 @@ import './style.css';
 
 const Post = ({ author, content, image, date, network }) => {
     return (
-        <div className='container'>
+        <div className='post-container'>
         <div className='user-avatar'><img src={author.photo} alt='avatar'></img>       
         </div>
         <div className='post-body'>
