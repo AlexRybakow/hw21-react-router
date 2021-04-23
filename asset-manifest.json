@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hw21-react-router/static/css/main.55cd0ec4.chunk.css",
-    "main.js": "/hw21-react-router/static/js/main.47cd15ba.chunk.js",
-    "main.js.map": "/hw21-react-router/static/js/main.47cd15ba.chunk.js.map",
+    "main.css": "/hw21-react-router/static/css/main.7b7e62a8.chunk.css",
+    "main.js": "/hw21-react-router/static/js/main.dc0d86bf.chunk.js",
+    "main.js.map": "/hw21-react-router/static/js/main.dc0d86bf.chunk.js.map",
     "runtime-main.js": "/hw21-react-router/static/js/runtime-main.f01bc507.js",
     "runtime-main.js.map": "/hw21-react-router/static/js/runtime-main.f01bc507.js.map",
     "static/js/2.be8f071d.chunk.js": "/hw21-react-router/static/js/2.be8f071d.chunk.js",
@@ -10,14 +10,23 @@
     "static/js/3.42604b35.chunk.js": "/hw21-react-router/static/js/3.42604b35.chunk.js",
     "static/js/3.42604b35.chunk.js.map": "/hw21-react-router/static/js/3.42604b35.chunk.js.map",
     "index.html": "/hw21-react-router/index.html",
-    "static/css/main.55cd0ec4.chunk.css.map": "/hw21-react-router/static/css/main.55cd0ec4.chunk.css.map",
+    "static/css/main.7b7e62a8.chunk.css.map": "/hw21-react-router/static/css/main.7b7e62a8.chunk.css.map",
     "static/js/2.be8f071d.chunk.js.LICENSE.txt": "/hw21-react-router/static/js/2.be8f071d.chunk.js.LICENSE.txt",
-    "static/media/spok.d1405f81.jpeg": "/hw21-react-router/static/media/spok.d1405f81.jpeg"
+    "static/media/photo1.1764a81d.jpg": "/hw21-react-router/static/media/photo1.1764a81d.jpg",
+    "static/media/photo2.42eb3a6c.jpg": "/hw21-react-router/static/media/photo2.42eb3a6c.jpg",
+    "static/media/photo3.0d0fea16.jpg": "/hw21-react-router/static/media/photo3.0d0fea16.jpg",
+    "static/media/photo4.ac015a6f.jpg": "/hw21-react-router/static/media/photo4.ac015a6f.jpg",
+    "static/media/photo5.e34d08c6.jpg": "/hw21-react-router/static/media/photo5.e34d08c6.jpg",
+    "static/media/photo6.9ffe2c98.jpg": "/hw21-react-router/static/media/photo6.9ffe2c98.jpg",
+    "static/media/photo7.41a94360.jpg": "/hw21-react-router/static/media/photo7.41a94360.jpg",
+    "static/media/photo8.bc1011bb.jpg": "/hw21-react-router/static/media/photo8.bc1011bb.jpg",
+    "static/media/photo9.bde4042d.jpg": "/hw21-react-router/static/media/photo9.bde4042d.jpg",
+    "static/media/spok.c86c57bf.jpeg": "/hw21-react-router/static/media/spok.c86c57bf.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.f01bc507.js",
     "static/js/2.be8f071d.chunk.js",
-    "static/css/main.55cd0ec4.chunk.css",
-    "static/js/main.47cd15ba.chunk.js"
+    "static/css/main.7b7e62a8.chunk.css",
+    "static/js/main.dc0d86bf.chunk.js"
   ]
 }
