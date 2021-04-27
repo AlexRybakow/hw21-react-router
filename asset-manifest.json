@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hw21-react-router/static/css/main.7b7e62a8.chunk.css",
+    "main.css": "/hw21-react-router/static/css/main.b7e75b78.chunk.css",
     "main.js": "/hw21-react-router/static/js/main.dc0d86bf.chunk.js",
     "main.js.map": "/hw21-react-router/static/js/main.dc0d86bf.chunk.js.map",
     "runtime-main.js": "/hw21-react-router/static/js/runtime-main.f01bc507.js",
@@ -10,7 +10,7 @@
     "static/js/3.42604b35.chunk.js": "/hw21-react-router/static/js/3.42604b35.chunk.js",
     "static/js/3.42604b35.chunk.js.map": "/hw21-react-router/static/js/3.42604b35.chunk.js.map",
     "index.html": "/hw21-react-router/index.html",
-    "static/css/main.7b7e62a8.chunk.css.map": "/hw21-react-router/static/css/main.7b7e62a8.chunk.css.map",
+    "static/css/main.b7e75b78.chunk.css.map": "/hw21-react-router/static/css/main.b7e75b78.chunk.css.map",
     "static/js/2.be8f071d.chunk.js.LICENSE.txt": "/hw21-react-router/static/js/2.be8f071d.chunk.js.LICENSE.txt",
     "static/media/photo1.1764a81d.jpg": "/hw21-react-router/static/media/photo1.1764a81d.jpg",
     "static/media/photo2.42eb3a6c.jpg": "/hw21-react-router/static/media/photo2.42eb3a6c.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.f01bc507.js",
     "static/js/2.be8f071d.chunk.js",
-    "static/css/main.7b7e62a8.chunk.css",
+    "static/css/main.b7e75b78.chunk.css",
     "static/js/main.dc0d86bf.chunk.js"
   ]
 }
