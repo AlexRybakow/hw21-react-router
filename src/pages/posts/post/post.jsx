@@ -1,5 +1,8 @@
 import React from 'react';
-import './style.css';
+import './post.css';
+import Like from '../assets/heart.png';
+import Repost from '../assets/repost.png';
+import Comment from '../assets/comment.png';
 
 const Post = ({ author, content, image, date, network }) => {
     return (
@@ -16,6 +19,11 @@ const Post = ({ author, content, image, date, network }) => {
             <p className='post-text'>{content}</p>
             <img className='post-image'src={image} alt='post-pic'></img>
         </div>
+        <div className='post-networks'>
+                <div className='network-logo'><img src={Like} alt='like'></img>{network.like}</div>
+                <div className='network-logo'><img src={Repost} alt='repost'></img>{network.repost}</div>
+                <div className='network-logo'><img src={Comment} alt='comment'></img>{network.comment}</div>
+            </div>
         </div>
         </div>
         

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './styles.css';
+import './contacts.css';
 
 class Contact extends Component {
     render() {
